@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TechBuddies/static/css/main.7d6a5af7.css",
+    "main.js": "/TechBuddies/static/js/main.91cdeed3.js",
+    "static/media/SEGA.woff": "/TechBuddies/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/TechBuddies/index.html",
+    "main.7d6a5af7.css.map": "/TechBuddies/static/css/main.7d6a5af7.css.map",
+    "main.91cdeed3.js.map": "/TechBuddies/static/js/main.91cdeed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d6a5af7.css",
+    "static/js/main.91cdeed3.js"
+  ]
+}
